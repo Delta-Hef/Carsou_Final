@@ -1,0 +1,34 @@
+{
+    "name": "CarControls",
+    "maps": [
+        {
+            "name": "Car",
+            "id": "6e1dee9c-c5d7-4b3d-bc1c-6adf0c99ecf1",
+            "actions": [
+                {
+                    "name": "Move",
+                    "type": "Value",
+                    "id": "fcff0185-5bea-4058-ba30-a0c5aca8ab8c",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "eda214de-a8ea-472e-920f-b41d0c21012c",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Move",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
