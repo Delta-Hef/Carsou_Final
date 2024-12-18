@@ -6,21 +6,36 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 0
-    path: Assets/New Folder/Scenes/Tests/Fail Car Scene.unity
+    path: Assets/Main Folder/Scenes/Tests/Fail Car Scene.unity
     guid: 99c9720ab356a0642a771bea13969a05
   - enabled: 0
     path: Assets/Scenes/3.unity
     guid: 2ec69b921ab0f3f4ebc53c8646046a4b
-  - enabled: 1
-    path: Assets/New Folder/Scenes/Start Carsou.unity
+  - enabled: 0
+    path: Assets/Secondary folder/Scenes/RealScene/Start Carsou.unity
     guid: 2bfabc673966dcd4eb54463df9e8cf11
   - enabled: 1
-    path: Assets/New Folder/Scenes/Car Scene 1.unity
+    path: Assets/Main/SCENES/Main Scene.unity
+    guid: ba5438e7b0d7b4b409c955a8ad5cd4b3
+  - enabled: 1
+    path: Assets/Main/SCENES/Intructions.unity
+    guid: ea9911c852c0332408be6ab1099f2d14
+  - enabled: 1
+    path: Assets/Main/SCENES/Settings Menu.unity
+    guid: c7050388ee1a42641b32c88be7f540c5
+  - enabled: 1
+    path: Assets/Main/SCENES/Credits Menu.unity
+    guid: 9cb4e1bb6689b9445b5570daba680461
+  - enabled: 1
+    path: Assets/Main/SCENES/Main Menu.unity
+    guid: 8332bbddaafca3349b4e49a1f423eb9e
+  - enabled: 0
+    path: Assets/Secondary folder/Scenes/RealScene/Car Scene 1.unity
     guid: 81211f88e5dcdcc48a9e9b2c39dff5fe
-  - enabled: 1
-    path: Assets/New Folder/Scenes/Scene rule.unity
+  - enabled: 0
+    path: Assets/Secondary folder/Scenes/RealScene/Scene rule.unity
     guid: 2487254db82b5f046ba965c16d44ac84
-  - enabled: 1
-    path: Assets/New Folder/Scenes/Scene credit.unity
+  - enabled: 0
+    path: Assets/Secondary folder/Scenes/RealScene/Scene credit.unity
     guid: 49792d93c6c3eaf4fa552cc7d9263137
   m_configObjects: {}
